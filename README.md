@@ -75,6 +75,7 @@ _Welcome to "Communicate using Markdown"! :wave:_
 -->
 
 ---
+
 This is certainly a good way to learn documentation and coding at the same time. Here are some useful links
 
 Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/communicate-using-markdown) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
