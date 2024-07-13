@@ -1,11 +1,13 @@
 <header>
-
 <!--
   <<< Author notes: Course header >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
   In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
   Add your open source license, GitHub uses MIT license.
 -->
+  
+# learning about the markdown as first step in the documentation and code communication journey
+#  this is the second biggest header as two spaces are used after '#' sign
 
 # Communicate using Markdown
 
@@ -73,6 +75,7 @@ _Welcome to "Communicate using Markdown"! :wave:_
 -->
 
 ---
+This is certainly a good way to learn documentation and coding at the same time. Here are some useful links
 
 Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/communicate-using-markdown) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
 
